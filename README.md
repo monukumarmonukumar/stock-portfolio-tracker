@@ -18,6 +18,6 @@ A simple Python project to track stock investments. This is Task 2 for my Python
 2. Run the script
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/stock-portfolio-tracker.git
+git clone https://github.com/monukumarmonukumar/stock-portfolio-tracker
 cd stock-portfolio-tracker
 python tracker.py
