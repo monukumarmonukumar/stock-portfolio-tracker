@@ -1,6 +1,6 @@
 # Stock Portfolio Tracker
 
-A simple Python project to track stock investments. This is Task 2 for my Python Internship.
+A simple Python project to track stock investments.
 
 ### Features
 - User can input stock names and quantities
